@@ -2,7 +2,7 @@
     Успешная авторизация с помощью Github
   requirement: |
     Возможность авторизации с помощью зарегистрированного аккаунта Github
-  prerequisites:
+  prerequisites: |
     url: https://codebattle.hexlet.io/
     Открыта вкладка авторизации "Sign in" и произведена авторизация на сайте Github
   test-data: |
@@ -17,7 +17,7 @@
     Успешная регистрация нового пользователя при помощи электронной почты
   requirement: |
     Пользователь должен иметь возможность зарегистрироваться на проекте с помощью электронной почты
-  prerequisites:
+  prerequisites: |
     url: https://codebattle.hexlet.io/
     Открыта страница с формой регистрации на сайте
   test-data: |
@@ -33,7 +33,7 @@
     Просмотр рейтинговой таблицы
   requirement: |
     Возможность просмотреть рейтинг игроков участвующих в проекте
-  prerequisites:
+  prerequisites: |
     url: https://codebattle.hexlet.io/
     Пользователь авторизован с помощью Github.
   test-data: |
@@ -48,7 +48,7 @@
     Просмотр рейтинговой таблицы
   requirement: |
     Возможность просмотреть рейтинг игроков участвующих в проекте
-  prerequisites:
+  prerequisites: |
     url: https://codebattle.hexlet.io/
     Пользователь авторизован с помощью Github.
   test-data: |
@@ -63,7 +63,7 @@
     Создание игры с ботом
   requirement: |
     Возможность создать игру с ботом по выбранному сценарию
-  prerequisites:
+  prerequisites: |
     url: https://codebattle.hexlet.io/
     Пользователь авторизован с помощью Github.
   test-data: |
@@ -82,7 +82,7 @@
     Выбор языка программирования для пользователя
   requirement: |
     Возможность выбора языка программирования в настройках профиля пользователя
-  prerequisites:
+  prerequisites: |
     url: https://codebattle.hexlet.io/
     Пользователь авторизован с помощью Github.
   test-data: |
