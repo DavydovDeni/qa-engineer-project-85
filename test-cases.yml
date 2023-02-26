@@ -35,6 +35,7 @@
   requirement: |
     Возможность авторизации с помощью зарегистрированного аккаунта Github
   prerequisites:
+    url: https://codebattle.hexlet.io/
     Открыта страница логина (Sign in) и произведена авторизация на сайте Github.
   test-data: |
     Зарегистрированный аккаунт GitHub
@@ -49,6 +50,7 @@
   requirement: |
     Пользователь должен иметь возможность зарегистрироваться на проекте с помощью электронной почты
   prerequisites:
+    url: https://codebattle.hexlet.io/
     Открыта страница с формой регистрации на сайте
   test-data: |
     Username = Jack, Password = Daniels, Email = Kentucky@lynchburg.com
